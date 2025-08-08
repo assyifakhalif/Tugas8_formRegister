@@ -224,7 +224,7 @@ export const RegisterForm: React.FC = () => {
 
             </CardContent>
             <Button type="submit" className="w-full">
-            Register
+            Submit
           </Button>
         </Card>
         

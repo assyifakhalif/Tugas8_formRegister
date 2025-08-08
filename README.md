@@ -1,4 +1,4 @@
-# 🧾 Form Registrasi - Tugas 8
+# 🧾 Form Registrasi - 
 
 Form ini merupakan bagian dari project React TypeScript dengan fitur **registrasi pengguna** yang meliputi beberapa input field seperti nama, email, usia, tanggal lahir, dan kewarganegaraan.
 
